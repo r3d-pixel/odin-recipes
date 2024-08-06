@@ -1,3 +1,18 @@
-.header {
-    font-weight: 700;
+div {
+    display: block;
 }
+
+.header {
+    text-align: center;
+    font-size: 60px;
+    background-color: black;
+    color: white;
+    padding: 2em;
+}
+
+ul {
+    font-size: 50px;
+    width: 15%;
+    margin: auto;
+}
+
